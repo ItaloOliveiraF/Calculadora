@@ -18,4 +18,4 @@ Há duas maneiras de se obter um resultado: realizando mais de uma operação ou
 
 A calculadora tem alguns problemas em lidar com números decimais.
 
-!(./calculadora.png)
+![](./calculadora.png)
