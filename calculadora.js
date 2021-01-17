@@ -18,6 +18,19 @@ function clearState(){
     render();
 }
 
+function backspace(){
+    const tam = valorAtual.length;
+
+    if (tam === 1){
+        valorAtual='0'
+    }
+    else{
+        valorAtual = valorAtual.substr(0, valorAtual.length - 1);
+    }
+    
+    render();
+}
+
 function calcular(valor1, valor2, operador) {
     valor1 = parseInt(valor1);
     valor2 = parseInt(valor2);
