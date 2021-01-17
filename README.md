@@ -17,3 +17,5 @@ Funcionalidades não presentes:
 Há duas maneiras de se obter um resultado: realizando mais de uma operação ou apertando em igual.
 
 A calculadora tem alguns problemas em lidar com números decimais.
+
+!(./calculadora.png)
